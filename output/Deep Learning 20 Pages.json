@@ -1,0 +1,55 @@
+{
+  "title": "Deep Learning 20 Pages",
+  "outline": [
+    {
+      "text": "Introduction to Deep Learning",
+      "page": 1,
+      "level": "H2"
+    },
+    {
+      "text": "Historical Background",
+      "page": 1,
+      "level": "H2"
+    },
+    {
+      "text": "Neural Network Architectures",
+      "page": 2,
+      "level": "H2"
+    },
+    {
+      "text": "Training Deep Neural Networks",
+      "page": 3,
+      "level": "H2"
+    },
+    {
+      "text": "Optimization Techniques",
+      "page": 4,
+      "level": "H2"
+    },
+    {
+      "text": "Evaluation Metrics",
+      "page": 4,
+      "level": "H2"
+    },
+    {
+      "text": "Tools and Frameworks",
+      "page": 5,
+      "level": "H2"
+    },
+    {
+      "text": "Applications of Deep Learning",
+      "page": 6,
+      "level": "H2"
+    },
+    {
+      "text": "Ethical and Social Implications",
+      "page": 6,
+      "level": "H2"
+    },
+    {
+      "text": "Future Directions",
+      "page": 7,
+      "level": "H2"
+    }
+  ]
+}

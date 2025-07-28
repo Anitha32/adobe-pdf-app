@@ -1,0 +1,55 @@
+{
+  "title": "Machine Learning 20 Pages",
+  "outline": [
+    {
+      "text": "Introduction to Machine Learning",
+      "page": 1,
+      "level": "H2"
+    },
+    {
+      "text": "Historical Development",
+      "page": 1,
+      "level": "H2"
+    },
+    {
+      "text": "Types of Machine Learning",
+      "page": 2,
+      "level": "H2"
+    },
+    {
+      "text": "Key Algorithms in ML",
+      "page": 4,
+      "level": "H2"
+    },
+    {
+      "text": "Model Evaluation and Validation",
+      "page": 5,
+      "level": "H2"
+    },
+    {
+      "text": "Data Preprocessing",
+      "page": 6,
+      "level": "H2"
+    },
+    {
+      "text": "Tools and Technologies",
+      "page": 6,
+      "level": "H2"
+    },
+    {
+      "text": "Applications of Machine Learning",
+      "page": 7,
+      "level": "H2"
+    },
+    {
+      "text": "Ethics and Challenges",
+      "page": 7,
+      "level": "H2"
+    },
+    {
+      "text": "Future Directions",
+      "page": 8,
+      "level": "H2"
+    }
+  ]
+}
